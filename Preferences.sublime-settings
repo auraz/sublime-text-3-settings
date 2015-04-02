@@ -1,14 +1,33 @@
 {
 	"bold_folder_labels": true,
+	"caret_style": "solid",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/themes/Rails-Casts.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow (SL).tmTheme",
 	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"find_selected_text": true,
-	"font_face": "Menlo Regular",
-	"font_size": 14.0,
+	"font_face": "Inconsolata",
+	"font_size": 18.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		119
+	],
 	"show_full_path": true,
-	"theme": "Nil.sublime-theme"
+	"tab_size": 4,
+	"theme": "Reverse Gravity.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true
 }

@@ -1,15 +1,37 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"AutoPEP8",
+		"Anaconda",
 		"BracketHighlighter",
+		"CodeFormatter",
+		"Diffy",
+		"Djaneiro",
+		"FileDiffs",
 		"Git",
 		"GitGutter",
-		"GoSublime",
+		"HTML-CSS-JS Prettify",
 		"Jedi - Python autocompletion",
+		"JsFormat",
+		"Mako",
+		"Material Color Scheme",
+		"Mustang Color Scheme",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"Pretty YAML",
+		"requirementstxt",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-flake8",
-		"Theme - Nil"
+		"Theme - Afterglow",
+		"Theme - Brogrammer",
+		"Theme - Flatland",
+		"Theme - Gravity",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - Sodarized",
+		"Tomorrow Color Schemes"
 	]
 }
